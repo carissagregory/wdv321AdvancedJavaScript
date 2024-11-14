@@ -9,7 +9,6 @@
 	This will be given to students to run as part of a web page that will consume the JSON object
 	Goal: Provide an example of how to create a JSON object in JS
 	Goal: Provide an example of how to consume a JSON object in JS
-
 	Use the following data for this object:
 	
 		student_id = 332443
